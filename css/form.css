@@ -1,6 +1,6 @@
 .form__fieldset {
     background-color: #cfcfcf;
-    border: 1px solid #2e2e2e;
+    border: 1px solid #cfcfcf;
     border-radius: 10px;
 }
 
@@ -8,7 +8,6 @@
     background-color: #fffd7c;
     padding: 5px;
     border-radius: 5px;
-    border: 1px solid #2e2e2e;
 }
 
 .form__field {
@@ -22,7 +21,7 @@
 }
 
 .form__field:invalid {
-    background-color: rgb(255, 169, 169);
+    background-color: #ffa9a9;
 }
 
 .form__labelText {
@@ -51,7 +50,7 @@
     margin-top: 20px;
     background-color: #646464;
     border-radius: 10px;
-    border: 2px solid #2e2e2e;
+    border: 2px solid #646464;
     font-weight: bold;
     color: #fffd7c;
     text-align: center;
