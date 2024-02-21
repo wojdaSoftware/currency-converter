@@ -2,7 +2,7 @@
 This site is a simple currency converter with 3 currencies to choose from.
 
 ## Demo and preview
-https://kvasir124.github.io/currency-converter/
+https://wojdaSoftware.github.io/currency-converter/
 
 ## Technologies
 * HTML
